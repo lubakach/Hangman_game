@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998835009548",
+    "project_id": "hangman-4e0f6",
+    "storage_bucket": "hangman-4e0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998835009548:android:8e18600ab5a71953929629",
+        "android_client_info": {
+          "package_name": "com.example.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998835009548-3u75c2e2unm6oqjmdhjv4ujdihmiq9ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hangman",
+            "certificate_hash": "4456bd67573156be9a077d3fbe88a59edc1b8810"
+          }
+        },
+        {
+          "client_id": "998835009548-jeb16itibm7048ftrdngojc19gjju0t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcAfVmO8pE4R6mqQxaf4k5PlJFVYplZDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998835009548-jeb16itibm7048ftrdngojc19gjju0t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
